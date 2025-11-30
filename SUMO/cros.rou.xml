@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2025-04-25 21:41:32 by Eclipse SUMO netedit Version 1.18.0
+-->
+
+<routes xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/routes_file.xsd">
+    <!-- Vehicles, persons and containers (sorted by depart) -->
+    <flow id="b_l" begin="0.00" color="100,149,237" from="b_from" to="l_to" end="3600.00" vehsPerHour="400.00"/>
+    <flow id="b_r" begin="0.00" color="100,149,237" from="b_from" to="r_to" end="3600.00" vehsPerHour="300.00"/>
+    <flow id="b_t" begin="0.00" color="100,149,237" from="b_from" to="t_to" end="3600.00" vehsPerHour="200.00"/>
+    <flow id="l_b" begin="0.00" color="100,149,237" from="l_from" to="b_to" end="3600.00" vehsPerHour="500.00"/>
+    <flow id="l_r" begin="0.00" color="100,149,237" from="l_from" to="r_to" end="3600.00" vehsPerHour="1000.00"/>
+    <flow id="l_t" begin="0.00" color="100,149,237" from="l_from" to="t_to" end="3600.00" vehsPerHour="300.00"/>
+    <flow id="r_b" begin="0.00" color="100,149,237" from="r_from" to="b_to" end="3600.00" vehsPerHour="349.99"/>
+    <flow id="r_l" begin="0.00" color="100,149,237" from="r_from" to="l_to" end="3600.00" vehsPerHour="750.00"/>
+    <flow id="r_t" begin="0.00" color="100,149,237" from="r_from" to="t_to" end="3600.00" vehsPerHour="200.00"/>
+    <flow id="t_b" begin="0.00" color="100,149,237" from="t_from" to="b_to" end="3600.00" vehsPerHour="100.00"/>
+    <flow id="t_l" begin="0.00" color="100,149,237" from="t_from" to="l_to" end="3600.00" vehsPerHour="300.00"/>
+    <flow id="t_r" begin="0.00" color="100,149,237" from="t_from" to="r_to" end="3600.00" vehsPerHour="200.00"/>
+</routes>

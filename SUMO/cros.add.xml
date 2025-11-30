@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!-- generated on 2025-04-25 21:41:29 by Eclipse SUMO netedit Version 1.18.0
+-->
+
+<additional xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="http://sumo.dlr.de/xsd/additional_file.xsd">
+    <!-- Detectors -->
+    <laneAreaDetector id="D_b_0" lane="b_from_0" pos="26.95" length="40.00" period="300.00" file="D_b_0.xml"/>
+    <laneAreaDetector id="D_b_1" lane="b_from_1" pos="26.88" length="40.00" period="300.00" file="D_b_1.xml"/>
+    <laneAreaDetector id="D_l_0" lane="l_from_0" pos="88.95" length="40.00" period="300.00" file="D_l_0.xml"/>
+    <laneAreaDetector id="D_l_1" lane="l_from_1" pos="88.90" length="40.00" period="300.00" file="D_l_1.xml"/>
+    <laneAreaDetector id="D_l_2" lane="l_from_2" pos="88.92" length="40.00" period="300.00" file="D_l_2.xml"/>
+    <laneAreaDetector id="D_r_0" lane="r_from_0" pos="100.89" length="40.00" period="300.00" file="D_r_0.xml"/>
+    <laneAreaDetector id="D_r_1" lane="r_from_1" pos="100.87" length="40.00" period="300.00" file="D_r_1.xml"/>
+    <laneAreaDetector id="D_r_2" lane="r_from_2" pos="100.77" length="40.00" period="300.00" file="D_r_2.xml"/>
+    <laneAreaDetector id="D_t_0" lane="t_from_0" pos="26.97" length="40.00" period="300.00" file="D_t_0.xml"/>
+    <laneAreaDetector id="D_t_1" lane="t_from_1" pos="26.96" length="40.00" period="300.00" file="D_t_1.xml"/>
+</additional>

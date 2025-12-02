@@ -5,6 +5,8 @@ This project implements an intelligent traffic light control system using Deep R
 
 ## 📁 Project Structure
 
+SUMO folder
+
 ├── Machine_Learning.py    # Main training script with DQN implementation
 
 ├── Main.py               # Deployment script for trained model
